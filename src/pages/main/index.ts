@@ -1,18 +1,12 @@
-class MainPage {
-    private container: HTMLElement;
+import Page from "../../core/templates/page";
+
+class MainPage extends Page {
     static TextObject = {
         MainTitle: 'Main Page',
     };
 
     constructor(id: string) {
-        this.container = document.createElement('div');
-        this.container.id = id;
-    }
-
-    private createHeaderTitle(text: string) {
-        const headerTitle = document.createElement('h1');
-        headerTitle.innerText = text;
-        return headerTitle;
+        super(id);
     }
 
     render() {
