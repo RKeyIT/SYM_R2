@@ -3,10 +3,11 @@
 ## Tasks:
 
 ### Difficults
-1. Very Hard =   \***VH**
-2. Hard      =   \***H**
-3. Normal    =   \***N**
-4. Easy      =   \***E**
+
+1. \***VH** = Very Hard
+2. \***H** = Hard
+3. \***N** = Normal
+4. \***E** = Easy
 
 ### TASKS:
 
