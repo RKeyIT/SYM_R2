@@ -3,7 +3,7 @@
 ## Tasks:
 
 ### Difficults
-1. Very Hard =   _D_**VH**
+1. Very Hard =   \***VH**
 2. Hard      =   _D_**H**
 3. Normal    =   _D_**N**
 4. Easy      =   _D_**E**
